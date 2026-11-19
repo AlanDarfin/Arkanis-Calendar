@@ -1,0 +1,1083 @@
+{
+    "name": "Arkanis",
+    "static_data": {
+        "year_data": {
+            "first_day": 1,
+            "overflow": true,
+            "global_week": [
+                "Synlurge",
+                "Derlurge",
+                "Prelurge",
+                "Prolurge",
+                "Caplurge",
+                "Prylurge",
+                "Interlurge",
+                "Epylurge",
+                "Poslurge",
+                "Exlurge",
+                "Soblurge",
+                "Aplurge"
+            ],
+            "timespans": [
+                {
+                    "name": "Arkanis",
+                    "type": "month",
+                    "length": 36,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Barvesk",
+                    "type": "month",
+                    "length": 31,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Cyranark",
+                    "type": "month",
+                    "length": 31,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Darfryn",
+                    "type": "month",
+                    "length": 38,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Elyriz",
+                    "type": "month",
+                    "length": 43,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Faymort",
+                    "type": "month",
+                    "length": 39,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Gharvek",
+                    "type": "month",
+                    "length": 30,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Hysteria",
+                    "type": "month",
+                    "length": 36,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Inforty",
+                    "type": "month",
+                    "length": 37,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Jinxy",
+                    "type": "month",
+                    "length": 40,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Khaos",
+                    "type": "month",
+                    "length": 54,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Luary",
+                    "type": "month",
+                    "length": 39,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Myrian",
+                    "type": "month",
+                    "length": 46,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Northuz",
+                    "type": "month",
+                    "length": 33,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Orkan",
+                    "type": "month",
+                    "length": 30,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Pheraxy",
+                    "type": "month",
+                    "length": 45,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Quaryn",
+                    "type": "month",
+                    "length": 33,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Ravelyn",
+                    "type": "month",
+                    "length": 39,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Skaryel",
+                    "type": "month",
+                    "length": 42,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Termyna",
+                    "type": "month",
+                    "length": 30,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Umbrya",
+                    "type": "month",
+                    "length": 36,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Vektory",
+                    "type": "month",
+                    "length": 52,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Westeryuz",
+                    "type": "month",
+                    "length": 42,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Xiangyou",
+                    "type": "month",
+                    "length": 44,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Ydraven",
+                    "type": "month",
+                    "length": 33,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Zarknor",
+                    "type": "month",
+                    "length": 45,
+                    "interval": 1,
+                    "offset": 0
+                }
+            ],
+            "leap_days": [
+                {
+                    "name": "Krusada Druor",
+                    "intercalary": false,
+                    "timespan": 0,
+                    "adds_week_day": false,
+                    "day": 0,
+                    "week_day": "",
+                    "interval": "1",
+                    "offset": 0,
+                    "not_numbered": false
+                },
+                {
+                    "name": "Vryant Kor",
+                    "intercalary": false,
+                    "timespan": 0,
+                    "adds_week_day": false,
+                    "day": 0,
+                    "week_day": "",
+                    "interval": "1",
+                    "offset": 0,
+                    "not_numbered": false
+                },
+                {
+                    "name": "Cynfur Alkov",
+                    "intercalary": false,
+                    "timespan": 0,
+                    "adds_week_day": false,
+                    "day": 0,
+                    "week_day": "",
+                    "interval": "1",
+                    "offset": 0,
+                    "not_numbered": false
+                },
+                {
+                    "name": "Khorq Dryart",
+                    "intercalary": false,
+                    "timespan": 0,
+                    "adds_week_day": false,
+                    "day": 0,
+                    "week_day": "",
+                    "interval": "1",
+                    "offset": 0,
+                    "not_numbered": false
+                }
+            ]
+        },
+        "moons": [
+            {
+                "name": "Verika",
+                "cycle": "48",
+                "cycle_rounding": "round",
+                "shift": "12",
+                "granularity": 16,
+                "color": "#ffffff",
+                "shadow_color": "#292b4a",
+                "hidden": false
+            },
+            {
+                "name": "Neurika",
+                "cycle": "36",
+                "cycle_rounding": "round",
+                "shift": "12",
+                "granularity": 8,
+                "color": "#ffffff",
+                "shadow_color": "#292b4a",
+                "hidden": false
+            },
+            {
+                "name": "Menrika",
+                "cycle": "24",
+                "cycle_rounding": "round",
+                "shift": "12",
+                "granularity": 8,
+                "color": "#ffffff",
+                "shadow_color": "#292b4a",
+                "hidden": false
+            }
+        ],
+        "clock": {
+            "enabled": true,
+            "render": false,
+            "hours": 32,
+            "minutes": 64,
+            "offset": 0,
+            "crowding": 0
+        },
+        "seasons": {
+            "data": [
+                {
+                    "name": "Velanthir",
+                    "color": [
+                        "#852220",
+                        "#413367"
+                    ],
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "transition_length": 252,
+                    "duration": 0,
+                    "length": 252,
+                    "start": 0,
+                    "end": 252
+                },
+                {
+                    "name": "Solanarê",
+                    "color": [
+                        "#3f1601",
+                        "#e8d71b"
+                    ],
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "transition_length": 252,
+                    "duration": 0,
+                    "length": 252,
+                    "start": 252,
+                    "end": 504
+                },
+                {
+                    "name": "Drosmy",
+                    "color": [
+                        "#ecad78",
+                        "#f14d5c"
+                    ],
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "transition_length": 252,
+                    "duration": 0,
+                    "length": 252,
+                    "start": 504,
+                    "end": 756
+                },
+                {
+                    "name": "Kealyth",
+                    "color": [
+                        "#d75013",
+                        "#aa44cc"
+                    ],
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "transition_length": 252,
+                    "duration": 0,
+                    "length": 252,
+                    "start": 756,
+                    "end": 1008
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Solus",
+                    "seasons": [
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        }
+                    ],
+                    "settings": {
+                        "timezone": {
+                            "hour": 0,
+                            "minute": 0
+                        },
+                        "season_based_time": true,
+                        "large_noise_frequency": 0.015,
+                        "large_noise_amplitude": 5,
+                        "medium_noise_frequency": 0.3,
+                        "medium_noise_amplitude": 2,
+                        "small_noise_frequency": 0.8,
+                        "small_noise_amplitude": 3
+                    }
+                },
+                {
+                    "name": "Centrus",
+                    "seasons": [
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        }
+                    ],
+                    "settings": {
+                        "timezone": {
+                            "hour": 0,
+                            "minute": 0
+                        },
+                        "season_based_time": true,
+                        "large_noise_frequency": 0.015,
+                        "large_noise_amplitude": 5,
+                        "medium_noise_frequency": 0.3,
+                        "medium_noise_amplitude": 2,
+                        "small_noise_frequency": 0.8,
+                        "small_noise_amplitude": 3
+                    }
+                },
+                {
+                    "name": "Nortus",
+                    "seasons": [
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        },
+                        {
+                            "time": {
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                },
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                }
+                            },
+                            "weather": {
+                                "temp_low": 32,
+                                "temp_high": 32,
+                                "precipitation": 0,
+                                "precipitation_intensity": 0
+                            }
+                        }
+                    ],
+                    "settings": {
+                        "timezone": {
+                            "hour": 0,
+                            "minute": 0
+                        },
+                        "season_based_time": true,
+                        "large_noise_frequency": 0.015,
+                        "large_noise_amplitude": 5,
+                        "medium_noise_frequency": 0.3,
+                        "medium_noise_amplitude": 2,
+                        "small_noise_frequency": 0.8,
+                        "small_noise_amplitude": 3
+                    }
+                }
+            ],
+            "global_settings": {
+                "season_offset": 0,
+                "weather_offset": 64,
+                "seed": 1789259899,
+                "temp_sys": "imperial",
+                "wind_sys": "imperial",
+                "cinematic": false,
+                "enable_weather": true,
+                "periodic_seasons": true,
+                "color_enabled": false,
+                "preset_order": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            }
+        },
+        "eras": [],
+        "settings": {
+            "layout": "grid",
+            "comments": "none",
+            "show_current_month": false,
+            "private": false,
+            "allow_view": true,
+            "only_backwards": true,
+            "only_reveal_today": false,
+            "hide_moons": false,
+            "hide_clock": false,
+            "hide_events": false,
+            "hide_eras": false,
+            "hide_all_weather": false,
+            "hide_future_weather": false,
+            "add_month_number": false,
+            "add_year_day_number": false,
+            "default_category": -1
+        },
+        "cycles": {
+            "format": "",
+            "data": []
+        }
+    },
+    "dynamic_data": {
+        "year": 1,
+        "timespan": 0,
+        "day": 1,
+        "epoch": 0,
+        "custom_location": true,
+        "location": "1",
+        "hour": 0,
+        "minute": 0,
+        "current_era": -1
+    },
+    "events": [
+        {
+            "id": 3825490,
+            "name": "Velanthir",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            0
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2026-04-13 20:43:32",
+            "updated_at": "2026-04-13 20:43:32",
+            "sort_by": 0,
+            "creator_id": 77771
+        },
+        {
+            "id": 3825491,
+            "name": "Solanarê",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2026-04-13 20:43:32",
+            "updated_at": "2026-04-13 20:43:32",
+            "sort_by": 1,
+            "creator_id": 77771
+        },
+        {
+            "id": 3825492,
+            "name": "Drosmy",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            2
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2026-04-13 20:43:32",
+            "updated_at": "2026-04-13 20:43:32",
+            "sort_by": 2,
+            "creator_id": 77771
+        },
+        {
+            "id": 3825493,
+            "name": "Kealyth",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            3
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2026-04-13 20:43:32",
+            "updated_at": "2026-04-13 20:43:32",
+            "sort_by": 3,
+            "creator_id": 77771
+        },
+        {
+            "id": 3825516,
+            "name": "Arkas, A Criação",
+            "data": {
+                "has_duration": false,
+                "duration": 1,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 1,
+                "conditions": [
+                    [
+                        "Date",
+                        "0",
+                        [
+                            1,
+                            0,
+                            1
+                        ]
+                    ]
+                ],
+                "connected_events": [],
+                "date": [
+                    1,
+                    0,
+                    1
+                ],
+                "search_distance": 0,
+                "overrides": {
+                    "moons": []
+                }
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Dark-Solid",
+                "text": "text",
+                "hide": false,
+                "print": false,
+                "hide_full": false
+            },
+            "created_at": "2026-04-13 21:04:16",
+            "updated_at": "2026-04-13 21:04:16",
+            "sort_by": 4,
+            "creator_id": 77771
+        },
+        {
+            "id": 3825517,
+            "name": "Bereal, O Contexto",
+            "data": {
+                "has_duration": false,
+                "duration": 1,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 1,
+                "conditions": [
+                    [
+                        "Date",
+                        "0",
+                        [
+                            1,
+                            0,
+                            2
+                        ]
+                    ]
+                ],
+                "connected_events": [],
+                "date": [
+                    1,
+                    0,
+                    2
+                ],
+                "search_distance": 0,
+                "overrides": {
+                    "moons": []
+                }
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Dark-Solid",
+                "text": "text",
+                "hide": false,
+                "print": false,
+                "hide_full": false
+            },
+            "created_at": "2026-04-13 21:04:16",
+            "updated_at": "2026-04-13 21:04:16",
+            "sort_by": 5,
+            "creator_id": 77771
+        },
+        {
+            "id": 3825518,
+            "name": "Cyrius, A Ideia",
+            "data": {
+                "has_duration": false,
+                "duration": 1,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 1,
+                "conditions": [
+                    [
+                        "Date",
+                        "0",
+                        [
+                            1,
+                            0,
+                            3
+                        ]
+                    ]
+                ],
+                "connected_events": [],
+                "date": [
+                    1,
+                    0,
+                    3
+                ],
+                "search_distance": 0,
+                "overrides": {
+                    "moons": []
+                }
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Dark-Solid",
+                "text": "text",
+                "hide": false,
+                "print": false,
+                "hide_full": false
+            },
+            "created_at": "2026-04-13 21:04:17",
+            "updated_at": "2026-04-13 21:04:17",
+            "sort_by": 6,
+            "creator_id": 77771
+        },
+        {
+            "id": 3825519,
+            "name": "Dognar, A Ação ",
+            "data": {
+                "has_duration": false,
+                "duration": 1,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 1,
+                "conditions": [
+                    [
+                        "Date",
+                        "0",
+                        [
+                            1,
+                            0,
+                            4
+                        ]
+                    ]
+                ],
+                "connected_events": [],
+                "date": [
+                    1,
+                    0,
+                    4
+                ],
+                "search_distance": 0,
+                "overrides": {
+                    "moons": []
+                }
+            },
+            "description": "",
+            "event_category_id": -1,
+            "calendar_id": "arkanis",
+            "settings": {
+                "color": "Dark-Solid",
+                "text": "text",
+                "hide": false,
+                "print": false,
+                "hide_full": false
+            },
+            "created_at": "2026-04-13 21:04:17",
+            "updated_at": "2026-04-13 21:04:17",
+            "sort_by": 7,
+            "creator_id": 77771
+        }
+    ],
+    "categories": []
+}
